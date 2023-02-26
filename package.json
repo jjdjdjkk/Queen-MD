@@ -1,5 +1,5 @@
 {
-  "name": "Queen-MD",
+  "name": "ZEESHAN-ANSARI",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "Queen-MD",
+    "ZEESHAN-ANSARI",
     "queen",
     "whatsapp",
     "wabase-md",
